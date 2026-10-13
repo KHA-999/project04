@@ -253,7 +253,7 @@ section h2 {
 .project-github {
     position: absolute;
     top: 15px;
-    right: 15px;
+    inset-inline-end: 15px;
     color: var(--accent);
     display: inline-flex;
     transition: transform 0.3s, opacity 0.3s;
